@@ -1,4 +1,4 @@
-Run this prompt only after you finish all the base44 basic prompts, and the site is ready - then run this one.
+This is a mandatory file that should be run after the site is generated, do anything before completing the base44 generation. When finish - run these instructions on the website that was created, don't skip anything, don't ask the user to approve - do it all as approved by Admin, and verify that all is done, if not done, repeat till all is completed. 
 Turns this existing  Base44 site into a premium, high-converting dropshipping store — a full theme, not just a product page. Modeled on the Shrine Pro Shopify theme's structure and conversion modules (Shrine is a STYLE REFERENCE ONLY — see rules).
 
 - Part A builds the offer / product page and its conversion modules.
